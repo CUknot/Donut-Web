@@ -1,4 +1,4 @@
-# ASCII Donut Animation Project (https://donut-web-pied.vercel.app/)[https://donut-web-pied.vercel.app/]
+# ASCII Donut Animation Project [https://donut-web-pied.vercel.app/](https://donut-web-pied.vercel.app/)
 
 ## Overview
 
